@@ -38,7 +38,7 @@ Dataset link :https://bit.ly/3i4rbWl
 
 Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
-#Task-6 : 
+# Task-6 : 
 
 Prediction using Decision Tree Algorithm(Level - Intermediate)
 Please click on the images on right side to view my solution.
@@ -49,7 +49,7 @@ The purpose is if we feed any new data to this classifier, it would be able to p
 
 Data can be found at https://bit.ly/3kXTdox
 
-#Task-8 : 
+# Task-8 : 
 Timeline Analysis : Covid-19 (Level - Advanced)
 Please click on the images on right side to view my solution (preferably youtube).
 
