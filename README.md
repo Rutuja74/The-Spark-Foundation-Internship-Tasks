@@ -38,6 +38,16 @@ Dataset link :https://bit.ly/3i4rbWl
 
 Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
+# Task-5
+EXPLORATORY DATA ANALYSIS-SPORTS 
+Perform EDA on dataset 'Indian Premier League'
+
+As a sports analyst,find out the most sucessful teams,players and factors contributing win or loss of a team.
+
+Suggest teams or players a company should endorse for its products.
+
+You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
+
 # Task-6 : 
 
 Prediction using Decision Tree Algorithm(Level - Intermediate)
